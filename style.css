@@ -10,7 +10,7 @@
 
   
   body {
-    font-family:  Helvetica, sans-serif;
+    font-family: "Courier New", Courier, monospace;
     /* Add flex to body to get full screen */
     height: 100vh;
     display: flex;
